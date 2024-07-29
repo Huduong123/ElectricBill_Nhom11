@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\extract\\mysql\\mysql-connector-j-8.0.33.jar"
+    ],
+    "java.project.explorer.showNonJavaResources": true,
+    "cSpell.words": [
+        "định",
+        "THANHTIEN"
+    ]
+}
